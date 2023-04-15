@@ -55,7 +55,7 @@ module.exports = {
                     }
                 }, 2000); // Coloquei um limite de tempo pra evitar ratelimit
 
-                const logChannel = client.channels.cache.get(data.logChannel);
+                const logChannel = client.channels.cache.get(data.logChannel)
 
                 if (!logChannel) return;
                 else {
