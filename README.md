@@ -24,8 +24,6 @@ Finally, you need the messageCreate event.
 
 **⤷** `📁` Place in `Events > Client`.
 
-**──────────────────────**
-
 ### `🔧` **Command:**
 - /setup-antilink **➜** Allows admins to enable or disable the anti-link system.
 
