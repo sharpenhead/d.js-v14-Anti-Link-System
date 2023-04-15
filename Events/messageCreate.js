@@ -37,7 +37,7 @@ module.exports = {
 
             else {
                 const e = new EmbedBuilder()
-                    .setDescription(`\`⚠️\` **•** Links are not allowed in this server, ${user}.`)
+                    .setDescription(`:warning: | Links are not allowed in this server, ${user}.`)
                     .setColor(warningColor);
 
                 const url =
