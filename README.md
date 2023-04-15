@@ -34,4 +34,5 @@ Finally, you need the messageCreate event.
 
 ### `📝` **Side note:**
 Please contact me via Discord, RexoPlays's brother#3085, if you have any questions, problems with the system, or if a step is unclear, and I will try my best to assist you!
+
 Also, if you are a Discord Coding Lounge server member and read my initial post, you probably recall that I indicated that in the command, there will be the ability to delete Discord server links, https:// links, or both. I was unable to include this portion because the post received a lot of attention and the reaction goal was quickly achieved. I apologize, and if I do create this function in the future, I will notify you all!
